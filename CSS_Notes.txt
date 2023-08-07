@@ -6,7 +6,7 @@ Why Css?
 -> Consistency
 -> Saved a lot of time
 -> Provided many attributes
-
+praksh
 
 CSS Syntax:
     Example :
